@@ -1,0 +1,47 @@
+{
+  "_catatan": "Ubah nilai di sini tanpa menyentuh index.html. Taruh config.json satu folder dengan index.html. scene.enabled=false untuk mematikan animasi 3D; scene.speed untuk kecepatan; scene.colors untuk warna kubus (format #rrggbb).",
+  "brand": "Brat Studio",
+  "instagram": {
+    "text": "Ig:_akhirkata",
+    "url": "https://www.instagram.com/_kataakhir?vrfl=eTAwemNsdzRsdnR6"
+  },
+  "hero": {
+    "before": "Bikin stiker",
+    "highlight": "brat",
+    "after": "versimu sendiri.",
+    "sub": "Ketik teks, atur warna, blur, dan gaya huruf. Download PNG langsung, gratis, tanpa menunggu."
+  },
+  "marquee": [
+    "bikin stiker",
+    "gaya brat",
+    "gratis",
+    "tanpa tunggu",
+    "download png",
+    "edit sepuasnya"
+  ],
+  "sticker": {
+    "text": "hai, ini brat sticker kamu",
+    "background": "#8ace00",
+    "textColor": "#000000",
+    "font": "brat",
+    "blur": 3,
+    "size": 100,
+    "width": 86,
+    "radius": 6,
+    "align": "center",
+    "lowercase": true,
+    "fileName": "brat-sticker"
+  },
+  "scene": {
+    "enabled": true,
+    "count": 26,
+    "speed": 1,
+    "colors": [
+      "#8ace00",
+      "#d4ff55",
+      "#ff5ea8",
+      "#2f6bff",
+      "#ffffff"
+    ]
+  }
+}
